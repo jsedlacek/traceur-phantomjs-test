@@ -1,0 +1,9 @@
+{
+    "framework": "mocha+chai",
+    "src_files": [
+        "node_modules/traceur/bin/traceur-runtime.js",
+        "test-compiled.js"
+    ],
+    "launch_in_ci": ["PhantomJS"],
+    "launch_in_dev": ["PhantomJS"]
+}

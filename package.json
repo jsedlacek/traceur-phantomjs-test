@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "phantomjs": "~1.9.7-1",
+    "traceur": "~0.0.31",
+    "testem": "~0.6.11"
+  }
+}
